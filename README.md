@@ -1,5 +1,5 @@
 # Differential Evolution implementation with jDE modification
-##### This work solves the task for the *mark 9*
+##### This work solves the **task 07** for the *mark 9*
 
 ### Input data
 Input data (functions implementations, dimensions and bounds) is in the **`src/functions.py`** file
